@@ -27,7 +27,7 @@ import {
     college,
     alom
   } from "../assets";
-  import rania from '../assets/avatar/rania.jpg';
+  import rania from '../assets/avatar/639634048489748790546.jpg';
   import noga from '../assets/avatar/nogajpg.jpg';
   import akrm from '../assets/avatar/akram.jpg';
 
