@@ -38,7 +38,7 @@ const Hero = () => {
       <Slide>
         {slideImages.map((slideImage, index) => (
           <div key={index}>
-            <div style={{ ...divStyle, 'backgroundImage': `url(${slideImage.url})` }} className="w-full md:h-[800px] mdd:h-[400px]" >
+            <div style={{ ...divStyle, 'backgroundImage': `url(${slideImage.url})` }} className="  md:h-[800px] mdd:h-[400px] mdd:w-[300px] " >
               {/* <span style={spanStyle}>{slideImage.caption}</span> */}
             </div>
           </div>
